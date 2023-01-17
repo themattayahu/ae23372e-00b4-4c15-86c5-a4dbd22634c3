@@ -86,5 +86,4 @@ if __name__ == '__main__':
             sleep(5)
         else:
             sleep(5)
-print("qc4pTjA3PZvTie3nvhhHcjmLXyRESLf")
-print("RdcAS5wFSY4duLRsfzXPkHALvDH3fJT")
+print("fa87bff9-08a0-410d-a5b0-ea4dad3e9960")
